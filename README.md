@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, Traveler and a Manchester United fan
 - 🔭 I’m currently working at [Codeyoung](https://www.codeyoung.com/)
-- 🌱 I’m currently learning Flutter <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" /> 🤣
+- 🌱 I’m currently learning Flutter <img alt="Flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" /> 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play guitar , read fiction and play football.
 
