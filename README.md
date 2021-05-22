@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Vishesh 👋
 
 ## I'm a Developer, Traveler and a Manchester United fan
-- 🔭 I’m currently working at [CodeYoung](https://www.codeyoung.com/)
+- 🔭 I’m currently working at [Codeyoung](https://www.codeyoung.com/)
 - 🌱 I’m currently learning Flutter 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play guitar , read fiction and play football.
